@@ -1,0 +1,13 @@
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\bin\Debug\MyChessGame.exe.config
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\bin\Debug\MyChessGame.exe
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\bin\Debug\MyChessGame.pdb
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.Properties.Resources.resources
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.exe
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.pdb
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.ChessBoard.resources
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.About.resources
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.NewGame.resources
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.Rules.resources
+C:\Users\Denis\source\repos\MyChessGame\MyChessGame\obj\Debug\MyChessGame.AISpecifications.resources
