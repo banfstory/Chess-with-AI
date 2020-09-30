@@ -1,3 +1,4 @@
 Instructions
 
-To play the chess game, go to the directory: MyChessGame (folder) > MyChessGame (folder) > obj (folder) > Debug (folder) > MyChessGame (.exe)
+To access the code, go to the path: MyChessGame (folder) > MyChessGame.sln 
+To access the executable file and play the chess game directly, go to the path: MyChessGame (folder) > MyChessGame (folder) > obj (folder) > Debug (folder) > MyChessGame (.exe)
